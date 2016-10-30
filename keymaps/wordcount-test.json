@@ -5,7 +5,7 @@
   "atom-text-editor": {
     ";": "wordcount-test:move_right",
     "j": "wordcount-test:move_left",
-    "l": "wordcount-test:move_up",
-    "k": "wordcount-test:move_down"
+    "k": "wordcount-test:move_down",
+    "l": "wordcount-test:move_up"
   }
 }
