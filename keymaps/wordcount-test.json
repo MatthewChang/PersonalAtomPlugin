@@ -1,0 +1,11 @@
+{
+  "atom-workspace": {
+    "ctrl-alt-o": "wordcount-test:toggle"
+  },
+  "atom-text-editor": {
+    ";": "wordcount-test:move_right",
+    "j": "wordcount-test:move_left",
+    "l": "wordcount-test:move_up",
+    "k": "wordcount-test:move_down"
+  }
+}

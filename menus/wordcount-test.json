@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle wordcount-test",
+        "command": "wordcount-test:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "wordcount-test",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "wordcount-test:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
