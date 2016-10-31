@@ -6,6 +6,11 @@
     ";": "wordcount-test:move_right",
     "j": "wordcount-test:move_left",
     "k": "wordcount-test:move_down",
-    "l": "wordcount-test:move_up"
+    "l": "wordcount-test:move_up",
+    "h": "wordcount-test:line_beginning",
+    "'": "wordcount-test:line_ending",
+    "space": "wordcount-test:space",
+    "s": "wordcount-test:backspace",
+    "d": "wordcount-test:delete"
   }
 }
